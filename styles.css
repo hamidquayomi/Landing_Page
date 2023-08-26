@@ -1,0 +1,24 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    background: rgb(154, 202, 154);
+    color: white;
+    font-size: 30px;
+}
+
+.logo {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 28px;
+    padding: 20px;
+}
+
+.navbar {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+    font-size: 28px;
+    padding: 20px;
+}
