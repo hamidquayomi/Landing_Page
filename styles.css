@@ -1,24 +1,49 @@
+body {
+    margin: 0;
+}
+
 .header {
-    padding: 60px;
-    text-align: center;
-    background: rgb(154, 202, 154);
-    color: white;
-    font-size: 30px;
+    background-color: #3D9970;
+    height: 400px;
+    margin: 0;
 }
 
 .logo {
     position: absolute;
     top: 8px;
     left: 16px;
-    font-size: 28px;
-    padding: 20px;
+    font-size: 35px;
+    padding: 10px;
 }
 
 .navbar {
     position: absolute;
     top: 8px;
     right: 16px;
-    font-size: 18px;
-    font-size: 28px;
-    padding: 20px;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.header2 {
+    background-color: #FAF9F6;
+    height: 300px;
+    margin: 0;
+}
+
+.header3 {
+    background-color: #DDDDDD;
+    height: 200px;
+    margin: 0;
+}
+
+.header4 {
+    background-color: #FAF9F6;
+    height: 150px;
+    margin: 0;
+}
+
+.header5 {
+    background-color: #3D9970;
+    height: 100px;
+    margin: 0;
 }
